@@ -8,8 +8,12 @@
   "description": "AngularJS module for GenieJS",
   "main": "uxGenie.js",
   "dependencies": {
-    "angular": "~1.2.10",
+    "angular": "~1.2.14",
     "genie": "*"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.14",
+    "angular-scenario": "~1.2.14"
   },
   "license": "MIT",
   "private": false,
